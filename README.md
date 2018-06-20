@@ -18,6 +18,7 @@ npm i vue-ex-eltable
 
 ## Usage
 详细代码参见 example/src/APP.vue
+
 .vue
 ```html
 <template>
