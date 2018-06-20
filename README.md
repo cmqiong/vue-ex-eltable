@@ -4,6 +4,9 @@
 ## vue-ex-eltable
 > 结合 element-ui form + pagination，表格渲染自带分页功能，可控制是否开启该功能，并整合了前端业务代码示例。
 
+## Demo
+https://cmqiong.github.io/vue-ex-eltable/example/index.html
+
 ## Notices
 使用条件：
 - 使用 elementUI
