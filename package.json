@@ -1,6 +1,6 @@
 {
   "name": "vue-ex-eltable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "结合 element-ui form + pagination，表格渲染自带分页功能，可控制是否开启该功能，并整合了前端业务代码示例",
   "dependencies": {
     "vue-cropper": "^0.2.9"

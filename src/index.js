@@ -48,6 +48,8 @@ export default {
       const container = document.createElement('div')
       const parent = this.$el.parentNode
       if (parent.lastChild === this.$el) {
+        const line = document.createElement('p')
+        parent.appendChild(line)
         parent.appendChild(container)
       } else {
         parent.insertBefore(container, this.$el.nextSibling)

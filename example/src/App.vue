@@ -3,7 +3,7 @@
     <!--搜索框-->
     <div class="search">
       <b>状态：</b>
-      <el-select v-model="status" placeholder="请选择模板类型" no-data-text="暂无数据，请等待加载">
+      <el-select v-model="status" placeholder="请选择状态" no-data-text="暂无数据，请等待加载">
         <el-option label="ALL" value="all"></el-option>
         <el-option label="OPEN" value="open"></el-option>
         <el-option label="CLOSED" value="closed"></el-option>
